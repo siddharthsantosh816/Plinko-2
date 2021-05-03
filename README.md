@@ -1,1 +1,2 @@
-# Plinko-2
+# Matter JS BoilerPlate
+Plinko Game
